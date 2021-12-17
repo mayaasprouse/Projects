@@ -1,4 +1,4 @@
-name: msprouse
+name: basic
 channels:
   - conda-forge
 dependencies:
